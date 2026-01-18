@@ -11,11 +11,19 @@ Important note:
 If you do not receive the Unlock Key from Motorola, this is **not** an issue with the tool.  
 It means your device is not eligible for official bootloader unlocking.
 
+BEFORE YOU BEGIN, KNOW ONE THING
+⚠️THIS WILL WIPE THE FUCK OUT OF YOUR DATA
+If you don't know how to do this, you risk hard bricking your phone.
+search tutorials, or read the motorola official page to get what im saying
+
+[Motorola Page (LOGIN TO GET KEY)](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a)
+
 ---
 
 ## How to download
 
 ```bash
 pkg update && pkg upgrade
+
 pkg install git -y
 git clone https://github.com/GahMarin1/UnlockMotorolaPro.git
