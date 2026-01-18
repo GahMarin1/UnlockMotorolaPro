@@ -27,6 +27,7 @@ pkg update && pkg upgrade
 
 pkg install git -y
 git clone https://github.com/GahMarin1/UnlockMotorolaPro.git
+cd UnlockMotorolaPro
 cd motorola-unlocker
 ```
 select what version you want
