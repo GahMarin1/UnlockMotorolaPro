@@ -11,8 +11,8 @@ HOW TO DOWNLOAD IT?
 ``pkg update && pkg upgrade``
 
 2.
-``pkg install wget -y``
+``pkg install git -y``
 
 3.
-``https://github.com/GahMarin1/UnlockMotorolaPro.git``
+``git clone https://github.com/GahMarin1/UnlockMotorolaPro.git``
 
