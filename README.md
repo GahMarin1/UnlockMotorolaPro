@@ -34,11 +34,13 @@ select what version you want
 1. English
 ```bash
 chmod +x unlock-moto-en.sh
+./unlock-moto-en.sh
 ```
 
 2. Portuguese
 ```bash
 chmod +x unlocker-v2-br.sh
+./unlocker-v2-br.sh
 ```
 
 hope you can do it!
