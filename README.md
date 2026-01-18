@@ -25,7 +25,7 @@ search tutorials, or read the motorola official page to get what im saying
 ```bash
 pkg update && pkg upgrade
 
-pkg install git -y
+pkg install git android-tools -y
 git clone https://github.com/GahMarin1/UnlockMotorolaPro.git
 cd UnlockMotorolaPro
 cd motorola-unlocker
