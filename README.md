@@ -1,18 +1,21 @@
 # UnlockMotorolaPro
-auto USB bootloader unlocker via TERMUX
+Automatic USB bootloader unlocker via Termux
 
-hey, welcome to my creation 
-I made this script because i've seen people failling on unlock bootloader on bugjaeger, So I thought, what if i made my own tool for automatic unlocking? (This program was created to unlock the Motorola's bootloader. Remember that if you don't receive the activation password from Motorola, this is not a problem with the tool but with the legality of your phone.) 
+Welcome!  
+I created this script after seeing many people fail to unlock the bootloader using Bugjaeger.  
+So I thought: why not create my own tool to automate this process?
 
-HOW TO DOWNLOAD IT? 
+This program was made specifically to unlock Motorola bootloaders via Termux.
 
+Important note:  
+If you do not receive the Unlock Key from Motorola, this is **not** an issue with the tool.  
+It means your device is not eligible for official bootloader unlocking.
 
-1.
-``pkg update && pkg upgrade``
+---
 
-2.
-``pkg install git -y``
+## How to download
 
-3.
-``git clone https://github.com/GahMarin1/UnlockMotorolaPro.git``
-
+```bash
+pkg update && pkg upgrade
+pkg install git -y
+git clone https://github.com/GahMarin1/UnlockMotorolaPro.git
